@@ -1,0 +1,14 @@
+django
+folium
+razorpay
+requests
+geopy
+openai
+googlemaps
+pandas
+numpy
+scikit-learn
+matplotlib
+pillow
+djangorestframework
+google-generativeai
